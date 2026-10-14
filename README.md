@@ -35,18 +35,3 @@ Explorando tecnologia e desenvolvimento de software, focado em criar interfaces 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
 
-## Atividade no GitHub
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/kevinoliveiraz/kevinoliveiraz/output/pacman-contribution-graph-dark.svg?v=2"
-    />
-    <img
-      src="https://raw.githubusercontent.com/kevinoliveiraz/kevinoliveiraz/output/pacman-contribution-graph.svg?v=2"
-      alt="Pac-Man percorrendo minhas contribuições no GitHub"
-      width="100%"
-    />
-  </picture>
-</p>
