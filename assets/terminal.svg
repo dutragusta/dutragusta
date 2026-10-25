@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title desc">
+  <title id="title">Terminal de apresentação</title>
+  <desc id="desc">Resumo dos interesses de Gustavo: desenvolvimento web, automação e projetos de aprendizagem.</desc>
+  <rect x="1" y="1" width="898" height="248" rx="14" fill="#0b0f14" stroke="#30363d"/>
+  <path d="M1 42h898" stroke="#30363d"/>
+  <circle cx="24" cy="22" r="5" fill="#ff5f56"/><circle cx="42" cy="22" r="5" fill="#ffbd2e"/><circle cx="60" cy="22" r="5" fill="#27c93f"/>
+  <text x="450" y="26" fill="#8b949e" font-family="monospace" font-size="12" text-anchor="middle">gustavo@github: ~</text>
+  <g font-family="monospace" font-size="16">
+    <text x="28" y="72" fill="#7ee787">$ cat profile.txt</text>
+    <text x="28" y="103" fill="#f0f6fc">NAME      <tspan fill="#8b949e">=</tspan> <tspan fill="#7ee787">Gustavo Dutra</tspan></text>
+    <text x="28" y="131" fill="#f0f6fc">FOCUS     <tspan fill="#8b949e">=</tspan> <tspan fill="#7ee787">Software development</tspan></text>
+    <text x="28" y="159" fill="#f0f6fc">LEARNING  <tspan fill="#8b949e">=</tspan> <tspan fill="#7ee787">Web • Python • Automation</tspan></text>
+    <text x="28" y="187" fill="#f0f6fc">MINDSET   <tspan fill="#8b949e">=</tspan> <tspan fill="#7ee787">Build / learn / repeat</tspan></text>
+    <text x="28" y="222" fill="#8b949e">[system] profile loaded successfully</text>
+  </g>
+  <circle cx="858" cy="218" r="5" fill="#3fb950">
+    <animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <rect x="28" y="232" width="8" height="2" fill="#7ee787">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
