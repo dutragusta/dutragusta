@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/typing.svg" alt="Gustavo Dutra | Estudante de Tecnologia" width="100%">
+<img src="assets/typing.svg" alt="Gustavo Dutra | Desenvolver e Automatizar" width="100%">
 
 <br><br>
 
@@ -11,8 +11,9 @@
 <br><br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-dutragusta-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dutragusta)
+[![Foco](https://img.shields.io/badge/Foco-Desenvolver%20%7C%20Automatizar-7ee787?style=for-the-badge&logoColor=0b0f14)](https://github.com/dutragusta)
+[![Curso](https://img.shields.io/badge/Curso-Análise%20e%20Desenvolvimento%20de%20Sistemas-007ACC?style=for-the-badge)](https://github.com/dutragusta)
 [![Status](https://img.shields.io/badge/status-aprendendo%20e%20construindo-16a34a?style=for-the-badge)](https://github.com/dutragusta)
-[![Curso](https://img.shields.io/badge/Curso-Análise%20e%20Desenvolvimento%20de%20Sistemas-blue?style=for-the-badge)](https://github.com/dutragusta)
 
 </div>
 
@@ -20,12 +21,13 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia, desenvolvimento de software e criação de interfaces interativas e modernas. Meu foco é aprender na prática, desenvolvendo projetos que unem design inovador, efeitos visuais e boa usabilidade.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco principal em **desenvolver soluções** e **automatizar processos**. Gosto de transformar ideias e desafios em sistemas funcionais, scripts eficientes e interfaces modernas que otimizem o dia a dia.
 
+- 🎯 **Foco de atuação:** **Desenvolver e Automatizar** (aplicações web, scripts de automação, fluxos eficientes)
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**
-- 💡 Foco atual em **JavaScript, Python, interfaces web interativas e automação**
-- 🎨 Interesse especial em animações web, efeitos 3D e experiências imersivas
-- 🚀 Sempre explorando novas ferramentas e aprimorando lógica de programação
+- 💡 Praticando ativamente **JavaScript, Python, lógica de programação e automação de tarefas**
+- 🎨 Criação de interfaces interativas, animações visuais e protótipos modernos
+- ⚡ Buscando sempre escrever código mais limpo, reutilizável e automatizado
 
 ---
 
@@ -33,18 +35,17 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecn
 
 <div align="center">
 
-#### Front-end & Design
+#### Desenvolvimento & Automação
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
-
-#### Programação & Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### Ferramentas & Versionamento
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Bash/Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
 
@@ -102,6 +103,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecn
 
 <div align="center">
 
-*"Construindo, testando, quebrando e aprendendo. O ciclo clássico do desenvolvimento."* 🚀
+*"Desenvolver, automatizar e aprender todos os dias."* 🚀
 
 </div>
