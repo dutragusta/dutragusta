@@ -2,107 +2,31 @@
 
 <img src="assets/typing.svg" alt="Gustavo Dutra | Desenvolver e Automatizar" width="100%">
 
-<br><br>
-
-<a href="https://github.com/dutragusta">
-  <img src="assets/terminal.svg" alt="Terminal de apresentação de Gustavo Dutra" width="100%">
-</a>
-
-<br><br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-dutragusta-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dutragusta)
-[![Foco](https://img.shields.io/badge/Foco-Desenvolver%20%7C%20Automatizar-7ee787?style=for-the-badge&logoColor=0b0f14)](https://github.com/dutragusta)
-[![Curso](https://img.shields.io/badge/Curso-Análise%20e%20Desenvolvimento%20de%20Sistemas-007ACC?style=for-the-badge)](https://github.com/dutragusta)
-[![Status](https://img.shields.io/badge/status-aprendendo%20e%20construindo-16a34a?style=for-the-badge)](https://github.com/dutragusta)
-
 </div>
 
----
+## Sobre mim
 
-### 👨‍💻 Sobre mim
+Estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em desenvolvimento de software, automação de processos e tecnologia.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco principal em **desenvolver soluções** e **automatizar processos**. Gosto de transformar ideias e desafios em sistemas funcionais, scripts eficientes e interfaces modernas que otimizem o dia a dia.
+Busco transformar ideias em soluções funcionais, simplificar tarefas e aprimorar meus conhecimentos em programação.
 
-- 🎯 **Foco de atuação:** **Desenvolver e Automatizar** (aplicações web, scripts de automação, fluxos eficientes)
-- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**
-- 💡 Praticando ativamente **JavaScript, Python, lógica de programação e automação de tarefas**
-- 🎨 Criação de interfaces interativas, animações visuais e protótipos modernos
-- ⚡ Buscando sempre escrever código mais limpo, reutilizável e automatizado
-
----
-
-### 🛠️ Tecnologias e Ferramentas
+## Tecnologias e ferramentas
 
 <div align="center">
 
-#### Desenvolvimento & Automação
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### Ferramentas & Versionamento
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Bash/Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,bash&perline=8" alt="Python, JavaScript, HTML, CSS, Git, GitHub, VS Code e Bash">
 
 </div>
 
----
-
-### 🚀 Projetos em Destaque
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📖 Entrelinhas: Livro 3D</h3>
-      <p>Homepage com visual moderno e protótipo interativo de um livro em 3D integrado via web.</p>
-      <p align="center">
-        <a href="https://github.com/dutragusta/entrelinhas-livro-3d">
-          <img src="https://img.shields.io/badge/Ver_Repositório-111827?style=for-the-badge&logo=github" alt="Repositório">
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">✨ Projeto Transforme-se</h3>
-      <p>Interface de login inovadora desenvolvida com fundo animado em caracteres ASCII e efeitos holográficos 3D.</p>
-      <p align="center">
-        <a href="https://github.com/dutragusta/Projeto_Transforme-se.">
-          <img src="https://img.shields.io/badge/Ver_Repositório-111827?style=for-the-badge&logo=github" alt="Repositório">
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dutragusta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f14&title_color=7ee787&icon_color=3fb950&text_color=f0f6fc" alt="Estatísticas do GitHub de Gustavo" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutragusta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f14&title_color=7ee787&text_color=f0f6fc" alt="Linguagens mais usadas" height="175"/>
-
-<br><br>
-
-[![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=dutragusta&bg_color=0b0f14&color=7ee787&line=3fb950&point=f0f6fc&area=true&hide_border=true)](https://github.com/dutragusta)
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dutragusta/dutragusta/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dutragusta/dutragusta/output/snake.svg">
-  <img alt="Snake game com as contribuições do GitHub" src="https://raw.githubusercontent.com/dutragusta/dutragusta/output/snake-dark.svg" width="100%">
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=dutragusta&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutragusta&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas" height="165">
 
 </div>
 
----
+## Contato
 
-<div align="center">
-
-*"Desenvolver, automatizar e aprender todos os dias."* 🚀
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/gustavodutrads/) · [GitHub](https://github.com/dutragusta)
